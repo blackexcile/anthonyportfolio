@@ -79,13 +79,12 @@ section {
 }
 
 .navbar a i {
-  color: white;
+  color: red;
   padding-right: .5rem;
 }
 
 .navbar a:hover {
   background: cyan;
-  padding-bottom: 8rem;
 }
 
 .navbar a:hover i {
